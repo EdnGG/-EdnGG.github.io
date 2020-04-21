@@ -162,3 +162,18 @@ a:hover {
 .portfolio-bio {
   line-height: 25px;
 }
+.portfolio-bio-about {
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* flex-wrap: wrap; */
+  text-align: center;
+  line-height: 25px;
+  /* width: 200px; */
+  /* justify-content: center; */
+  cursor: pointer;
+  /* background-color: coral; */
+}
+
+#button-id {
+  padding: 20px;
+}
